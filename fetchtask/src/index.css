@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 33.3vw 33.3vw auto;
+  height: 5vh;
+}
+
+header button:hover{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+
